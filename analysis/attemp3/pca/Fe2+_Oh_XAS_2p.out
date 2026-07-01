@@ -1,0 +1,47 @@
+=============================================================
+====    written by Maurits W. Haverkort,                 ====
+====    Yi Lu, Robert Green, Sebastian Macke,            ====
+====    Marius Retegan, Martin Brass, Simon Heinze,      ====
+====    Charles Cardot, Michelangelo Tagliavini,         ====
+====    Sina Shokri, Kai Arnold, Paul Hill,              ====
+====    Kevin Ackermann, Aleksandrs Zacinskis            ====
+====    (cc) 1995 - 2024 code and binaries released      ====
+====    under creative commons CC-BY lisence             ====
+====    www.quanty.org                                   ====
+====    Beta version, be critical and report errors!!!   ====
+=============================================================
+====    Version 0.8 beta                                 ====
+====            compiled at: Sep 20 2024 at 08:25:23     ====
+=============================================================
+====    When used in scientific publications please cite ====
+====    one of the following papers as appropriate with  ====
+====    respect to the methods used in your publication: ====
+====    Phys. Rev. B 85, 165113 (2012)                   ====
+====    Phys. Rev. B 90, 085102 (2014)                   ====
+====    Euro Phys. Lett. 108, 57004 (2014)               ====
+====    J. of Phys.: Conf. Series 712, 012001 (2016)     ====
+====    New Journal of Physics 22 (9), 093018 (2020)     ====
+=============================================================
+Program executed on: Fri Jun 26 13:14:16 2026
+Running on host    : nixos
+number of available processors              : 16
+maximum number of threads in parallel region: 16
+Smallest positive float  : 2.225074E-308 
+Smallest deviation from 1: 2.220446E-16 
+
+Diagonal values of the initial crystal field Hamiltonian:
+================
+Irrep.         E
+================
+eg         0.600
+t2g       -0.400
+================
+
+Analysis of the initial Hamiltonian:
+=================================================================================================================================
+State           E     <S^2>     <L^2>     <J^2>      <Sk>      <Lk>      <Jk>      <Tk>     <l.s>    <N_2p>    <N_3d>          dZ
+=================================================================================================================================
+    1   -3.829707    5.9957    6.0065   18.1840    1.4977    0.5477    2.0454   -0.0268   -0.8948    6.0000    6.0000    3.33e-01
+    2   -3.829707    5.9957    6.0065   18.1840   -1.4979   -0.5478   -2.0457    0.0268   -0.8948    6.0000    6.0000    3.33e-01
+    3   -3.829707    5.9957    6.0065   18.1840    0.0002    0.0001    0.0002   -0.0000   -0.8948    6.0000    6.0000    3.33e-01
+=================================================================================================================================
